@@ -6,28 +6,26 @@
 
 ---
 
-## 🔭 What I’m working on  
-- Web Development projects  
-- Improving my problem-solving with **Data Structures & Algorithms (Java)**  
 
 ## 🌱 Currently Learning  
-- Advanced algorithms and optimization techniques  
+- Introduction to cloud (AWS)
+- E-commerce store using React
 - Building full-stack applications  
 
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Java, Python, JavaScript, C++  
-**Web Development:** HTML, CSS, React, Node.js, Express  
-**Databases:** MySQL, MongoDB  
-**Tools & Platforms:** Git/GitHub, VS Code, Postman, Linux  
+**Languages:** Java, Python(FASTAPI), JavaScript, C#  
+**Web Development:** HTML/CSS, React,  
+**Databases:** MySQL, MongoDB, PostgreSQL  
+**Tools & Platforms:** Git/GitHub, VS Code, Postman 
 
 ---
 
 ## 📫 Connect with Me  
 - ✉️ Email: **aasthajoshi412@gmail.com**  
 - 📄 [Resume](https://docs.google.com/document/d/130nBznOFK_o4erP9bcXVDKKK6Jijk-8i5VjgQomNQ5E/edit?usp=sharing)  
-- 💼 [LinkedIn](your-linkedin-url)  
+- 💼 [LinkedIn](www.linkedin.com.in/aasthajoshi23)  
 
 ---
 
