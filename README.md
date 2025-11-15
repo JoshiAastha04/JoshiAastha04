@@ -1,5 +1,5 @@
 # 💫 About Me  
-Hi! I’m **Aastha Joshi**, a senior Comp Sci student at **Cal State Northridge** and a passionate **Full Stack Developer** who loves turning creative ideas into real, working applications.
+Hieeee! I’m **Aastha Joshi**, a senior Comp Sci student at **Cal State Northridge** and a passionate **Full Stack Developer** who loves turning creative ideas into real, working applications.
 
 I enjoy building projects that balance clean design with real-world functionality from full-stack web apps and backend systems to mobile apps and even small game projects. I love exploring new tools, solving problems, and bringing ideas to life through code.
 
