@@ -20,7 +20,7 @@ Outside of tech, I love to **Sketch Portraits** and create **Pixel art**
 ## 🌐 Connect With Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aasthajoshi23)  
 - 📧 [Email](mailto:aasthajoshi3010@gmail.com)
-- 🎬 [Portfolio]()
+- 🎬 [Portfolio](http://www.aasthajoshi.tech)
 
 
 # 💻 Tech Stack:
